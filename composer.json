@@ -5,12 +5,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "TBoileau\\Kata\\Fizzbuzz\\": "src/"
+            "TBoileau\\Kata\\FizzBuzz\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "TBoileau\\Kata\\Fizzbuzz\\Tests\\": "tests/"
+            "TBoileau\\Kata\\FizzBuzz\\Tests\\": "tests/"
         }
     },
     "authors": [
